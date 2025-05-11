@@ -31,8 +31,8 @@ brew install ffmpeg
 2. **Clonar o repositório**
 
 ```bash
-git clone https://github.com/seu-usuario/guitar-track-extractor.git
-cd guitar-track-extractor
+git clone https://github.com/ericklaus16/Tab-AI
+cd Tab-AI
 ```
 
 3. **Criar ambiente virtual**
